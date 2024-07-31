@@ -1,0 +1,4 @@
+# env 파일 제외
+# Ignore the .env file
+.env
+.DS_Store
